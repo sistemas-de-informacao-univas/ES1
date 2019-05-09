@@ -1,0 +1,9 @@
+Criação de um Blog
+
+Todo blog tem um título e uma data de criação e além disso é um conjunto de conteúdos textos, imagens e vídeos.
+Estes conteúdos (mensagens) podem ser notas ou comentários sobre as notas. Tanto notas quanto comentários têm características comuns como o texto e a data de sua criação. 
+Todo usuário possui: – E-mail (deve ser único, ou seja, não há mais de um usuário com o mesmo e-mail)
+O sistema deve... 
+•	Permitir a criação de blogs 
+•	Permitir a utilização de blogs – Qualquer usuário pode ler conteúdos – Somente o dono do blog pode criar notas – Qualquer usuário pode criar comentários. Para criar um comentário os usuários precisam ler as notas. – Somente o dono do blog pode remover conteúdo.
+•	Para remover um conteúdo ele precisará ler o conteúdo. Caso ele remova um comentário, o autor do comentário deve ser notificado por e-mail.
